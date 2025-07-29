@@ -29,7 +29,6 @@ To extract structured data from websites using Python libraries or automated too
 - `web_scraping_script.py` – Python script for scraping  
 - `scraped_data.csv` – Collected dataset  
 - `README.md` – Project documentation  
-- `requirements.txt` – Required Python packages
 
 ## ⚠️ Ethics and Legality  
 - Always check the website’s `robots.txt` file before scraping  
