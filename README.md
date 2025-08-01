@@ -37,3 +37,4 @@ To extract structured data from websites using Python libraries or automated too
 
 ## 🧠 Outcome  
 This task demonstrates the use of automated methods to gather data directly from the web, creating custom datasets for real-world data analysis and decision-making.
+ 
