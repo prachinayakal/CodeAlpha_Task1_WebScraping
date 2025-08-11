@@ -1,5 +1,5 @@
 # 🌐 Task 1: Web Scraping
-Utilized Python with BeautifulSoup to perform web scraping from publicly available web sources. The collected data was structured and stored for use in subsequent data analysis tasks.       
+Utilized Python with BeautifulSoup to perform web scraping from publicly available web sources. The collected data was structured and stored for use in subsequent data analysis tasks.   
 
 ## ✅ Objective  
 To extract structured data from websites using Python libraries or automated tools, enabling the creation of custom datasets for further analysis.
